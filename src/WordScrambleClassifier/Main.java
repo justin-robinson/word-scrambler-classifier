@@ -12,12 +12,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        System.out.println(classify("MAPS", "SPAM"));
-//        System.out.println(classify("RIONY", "IRONY"));
-//        System.out.println(classify("ONYRI", "IRONY"));
-//        System.out.println(classify("IRONY", "IRONY"));
-//        System.out.println(classify("INOYR", "IRONY"));
-//        System.out.println(classify("IOYRN", "IRONY"));
+        System.out.println(classify("MAPS", "SPAM"));
+        System.out.println(classify("RIONY", "IRONY"));
+        System.out.println(classify("ONYRI", "IRONY"));
+        System.out.println(classify("IRONY", "IRONY"));
+        System.out.println(classify("INOYR", "IRONY"));
+        System.out.println(classify("IOYRN", "IRONY"));
         System.out.println(classify("breristhogerl", "rothlisberger"));
         System.out.println(classify("brerithrogesl", "rothlisberger"));
         System.out.println(classify("breristlogerh", "rothlisberger"));
